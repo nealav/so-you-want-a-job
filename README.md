@@ -96,3 +96,7 @@ I found these useful in some capacity.
 
 * [Lessons From A Silicon Valley Job Search, Robert Heaton](https://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/)
 * [How To Reach Out To Recruiters](https://www.reddit.com/r/cscareerquestions/comments/e7rovp/how_to_reach_out_to_recruiters/)
+
+## Contribution
+
+Please help contribute by making a PR or sending over useful links and stories. :)
