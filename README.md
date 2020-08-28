@@ -10,17 +10,21 @@ Your career and job are abstract concepts that you can build a relationship with
 
 You have hidden assumptions about existence and how the world around you operates. I will put your thoughts (what used to be mine) in __bold font__.
 
-1. __I want a good job.__ No. There are no good jobs. Only jobs that don't hold you back from living a good life. What you want is a good *life*. Using your job to define your life will leave you unsatisfied. Nobody can steal away the goodness of your life. If you want it then you can get it by giving it to yourself.
+1. __I want a good job.__ No. There are no good jobs, only jobs that don't hold you back from living a good life. What you want is a good *life*. Using your job to define your life will leave you unsatisfied. Nobody can steal away the goodness of your life. If you want it then you can get it by giving it to yourself.
 
 2. __People and companies know what they are doing__. People and companies are inefficient and disorganized. All of them. I once was interviewing for an internship at a big tech company and my recruiter got fired/left without handing me off to another. I followed up a few times but I was unable to contact them. I went to their LinkedIn after following up a few times over the course of a few weeks only to find out they were working at a completely different company, and by this time the positions had filled up.
 
 3. __If I interview well I will get the job__. You can be the most perfect candidate and interviewee and still not get the job. The position may be filled before your feedback is entered, an interviewer may spite you with mediocre feedback even though you thought you did great, the department may decide to pause all hiring, the hiring manager may quit or get fired without handing off potential hires - anything can happen. Nothing is promised. The American Dream™ only promises what is average to America. The \[Insert Country] Dream only promises what is average to \[Insert Country]. The median salary, company size, home size: open your eyes to the average to understand what a country and society truly promises you.
 
-4. __The interviewer will guide me if I communicate effectively. An interview is a logical conversation between two people.__ The interviewer is not there to help you. A really good software engineer and interviewer (1%) will give you a great open-ended problem and do their best to understand you and lead you down the path they feel is best for getting you to code out an epic solution. 98% of interviewers are just brain-dead. They don't care about their interview. They don't care whether you pass or understand the question. They just want to get on with the interview and ask the same canned questions they ask to everyone else. They already have a job at the company - why does it matter to them whether you get the job or not? And, unfortunately, 1% of interviewers are spiteful. They want you to fail because they like watching the world burn. They ask hard questions because they were asked hard questions and feel vengeful justice while doling out the punishment on potential candidates - basic hazing. 
+4. __The interviewer will guide me if I communicate effectively. An interview is a logical conversation between two people.__ The interviewer is not there to help you. A really good software engineer and interviewer (1%) will give you a great open-ended problem and do their best to understand you and lead you down the path they feel is best for getting you to code out an epic solution. (~98%) of interviewers are just tuned out. They don't care about the interview. They don't care whether you pass or understand the question. They just want to get on with the interview and ask the same canned questions they ask to everyone else, put in their feedback and go back to work. They already have a job at the company - why does it matter to them whether you get the job or not? And, unfortunately, (1%) of interviewers are spiteful. They want you to fail because they like watching the world burn. They ask hard questions because they were asked hard questions and feel vengeful justice while doling out the punishment and hazing on potential candidates.
+
+5. __If I study enough I will be able to pass any interview.__ Interviews are not a meritocracy. Soft skills do matter. Networking does matter. Being a software engineer is more about manipulating computers than becoming them.
+
+6. __I make a similar amount to my colleagues.__ Possibly. You'd be surprised how much more or less you make than them. Companies are not fair. I am neutral on salary sharing with colleagues. 
 
 ## Resume
 
-Write a good resume. I won't bore you with this. Read up.
+Write a good resume. Read up.
 
 * [How To Write A Resume* Worth Reading](https://acorwin.com/2015/03/30/how-to-write-a-resume-worth-reading/)
 * [MIT Career Handbook](https://capd.mit.edu/sites/default/files/about/files/career-handbook.pdf)
@@ -47,7 +51,7 @@ This is a marathon, not a sprint. Pacing is everything.
 * [j-delany / easy-application](https://github.com/j-delaney/easy-application)
 * [Apply Everywhere](https://docs.google.com/document/d/1n7vxbL0Wjt58Q6M73b3leNjIYSkUeej1E8afQF86ZeQ/edit#)
 
-1. Apply to 10 jobs per day at the minimum. Don't set arbitrary minimums like 100 jobs per day. You will overwhelm yourself. Do NOT, under any circumstances, burn yourself out over a job search. Just assume that the potential hit-rate of your applications will fall somewhere between 5% - 20%. I like to assume that the hit-rate is 10%. So applying to 10 jobs per day should net you at least 1 recruiter call. You don't even have to actually apply to 10 jobs. Think of it like lead generation. Adding technical recruiters on LinkedIn (get them 500+ connections, bruh) and following hiring managers and developers on Twitter also happens to be meaningful lead generation, something that could potentially lead you to a job opportunity.
+1. Apply to 10 jobs per day at the minimum. Don't set arbitrary minimums like 100 jobs per day. You will overwhelm yourself. Do NOT, under any circumstances, burn yourself out over a job search. Just assume that the potential hit-rate of your applications will fall somewhere between 5% - 20%. I like to assume that the hit-rate is 10%. So applying to 10 jobs per day should net you at least 1 recruiter call per batch. You don't even have to actually apply to 10 jobs. Think of it like lead generation. Adding technical recruiters on LinkedIn (get them 500+ connections, bruh) and following hiring managers and developers on Twitter also happens to be meaningful lead generation, something that could potentially lead you to a job opportunity.
 
 2. My opinion is that cover letters are useless. If you're supposed to write a 1 page resume because nobody has time to read anything longer than a 1 page resume, then why would they bother or have time to read your cover letter? I don't have all the answers. There is a lot of opinion on this.
 
@@ -59,7 +63,7 @@ This is a marathon, not a sprint. Pacing is everything.
 
 6. Referrals are the best chance you have at converting an application to an interview.
 
-7. Cold-emailing recruiters, hiring managers and engineers could potentially work. Guess their emails, download an email finder Chrome extension, or maybe [scrape every GitHub user](https://github.com/nealav/github-scraper). You can use Google for this as well with potential search queries like `site:linkedin.com technical recruiter "@fb.com"`.
+7. Cold-emailing recruiters, hiring managers and engineers could potentially work. Guess their emails, download an email finder Chrome extension, or maybe [scrape every GitHub user](https://github.com/nealav/github-scraper). You can use Google for this with potential search queries like `site:linkedin.com technical recruiter "@fb.com"`.
 
 ## [Technical Interviewing](https://github.com/nealav/interviewing)
 
