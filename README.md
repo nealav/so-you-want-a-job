@@ -96,7 +96,7 @@ Know what you're worth.
 
 ## Epilogue
 
-1. Write down all your advices and learnings (and send them to me!). Go make a GitHub repo right now where after every interview you write down at least one thing you learned (technically, behaviorally etc.). It will help your career and be a great reference guide to yourself and others as you go through your journey. When you are 40 or 50 it will be an absolute blast to see how your thinking evolved and changed.
+1. Write down all your advices and learnings (and send them to me!). Go make a GitHub repo right now where after every interview you write down at least one thing you learned (technically, behaviorally etc.). It will help your career and be a great reference guide to yourself and others as you go through your journey (also it will help you get them daily green blocks, bruh). When you are 40 or 50 it will be an absolute blast to see how your thinking evolved and changed.
 
 2. Keep track of your journey. Go make another repo of general career (or otherwise!) things you've done. You read a book and liked it? Throw it down in a list somewhere. You saw a repo you liked? Throw it down! We all keep giant piles of bookmarks. I think it is more fun to keep them in repos. I enjoy cataloguing. It motivates me to keep adding more things I liked and have done. Plus if anyone asks you for career advice or life advice you can point them to your repo of things you liked/helped you, and the community will be so much better off.
 
