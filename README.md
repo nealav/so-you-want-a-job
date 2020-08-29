@@ -29,6 +29,7 @@ Write a good resume. Read up.
 * [How To Write A Resume* Worth Reading](https://acorwin.com/2015/03/30/how-to-write-a-resume-worth-reading/)
 * [MIT Career Handbook](https://capd.mit.edu/sites/default/files/about/files/career-handbook.pdf)
 * [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
+* [LaTeX Templates](https://www.overleaf.com/latex/templates/tagged/cv)
 * [CareerCup Resume](https://www.careercup.com/resume)
 * [deedy / resume](https://github.com/deedy/Deedy-Resume)
 * [sb2nov / resume](https://github.com/sb2nov/resume)
@@ -50,6 +51,11 @@ This is a marathon, not a sprint. Pacing is everything.
 
 * [j-delany / easy-application](https://github.com/j-delaney/easy-application)
 * [Apply Everywhere](https://docs.google.com/document/d/1n7vxbL0Wjt58Q6M73b3leNjIYSkUeej1E8afQF86ZeQ/edit#)
+* [US + Canada Software Companies List](https://docs.google.com/spreadsheets/d/1z3_OfZdPXiOOgHi7uY5nvLuQX_qbpaxmYNXHHiuuV0I/edit#gid=0)
+* [900+ Sartups Hiring Remote 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
+* [Silicon Valley Companies](https://docs.google.com/spreadsheets/d/1wEOBuKXFc8Lbim6uz9FfVFuIqDa38JPgp94fe_gcAyw/edit#gid=245098019)
+* [Steve Jobs](https://docs.google.com/spreadsheets/d/15eqdQCWwXOQZvl6TNehn12BuMTVNpAG7Q_ib3q-BS1Y/edit#gid=0)
+* [Tech Companies NYC](https://en.wikipedia.org/wiki/List_of_tech_companies_in_the_New_York_metropolitan_area)
 
 1. Apply to 10 jobs per day at the minimum. Don't set arbitrary minimums like 100 jobs per day. You will overwhelm yourself. Do NOT, under any circumstances, burn yourself out over a job search. Just assume that the potential hit-rate of your applications will fall somewhere between 5% - 20%. I like to assume that the hit-rate is 10%. So applying to 10 jobs per day should net you at least 1 recruiter call per batch. You don't even have to actually apply to 10 jobs. Think of it like lead generation. Adding technical recruiters on LinkedIn (get them 500+ connections, bruh) and following hiring managers and developers on Twitter also happens to be meaningful lead generation, something that could potentially lead you to a job opportunity.
 
@@ -79,9 +85,11 @@ This is a marathon, not a sprint. Pacing is everything.
 
 ## Behavioral Interviewing
 
-1. Collect stories. They don't have to be your stories that you collect either.
-2. Assume an identity or a persona. Everybody has their 
-3. Create the illusion of an iceberg.
+1. Collect stories. They don't have to explicitly be your stories either. You can practice the art of storytelling outside the lines of what is yours and what is not. The entire credit for the present belongs to all of the past.
+
+2. Assume an identity or a persona. Everybody has a persona or personality type that they mesh well with. You can become a thinker, an empiricist, a goofball, a whatever-whoist in order to mesh well with your interviewer and others. Be flexible with your personality. If being you isn't working so well in the moment, then be someone else temporarily.
+
+3. Create the illusion of an iceberg. You may respect and admire people that resemble giant glaciers. Piles and piles of solidified knowledge and expertise. It takes time to get to that point. Strive to create the illusion of being an iceberg, no matter what you actually consider yourself. Icebergs can have the same terrifyingly powerful knowledge as any mountain of ice. They *can*. 90% is beneath the water. If you can't project your knowledge outwardly and visibily in the moment, project it inwardly and under the water. Any good fantasy or scifi writer would tell you this: give the reader the illusion of depth. Plant in their head the seeds of knowledge that you have but let them grow without you nuturing them. If someone had to read a massive prologue of fact dumping and storybuilding they'd get tired and bored. You also don't have to nuture everything and say everything outright for you to convey what you need to.
 
 ## Negotitation
 
@@ -108,6 +116,7 @@ I found these useful in some capacity.
 
 * [Lessons From A Silicon Valley Job Search, Robert Heaton](https://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/)
 * [How To Reach Out To Recruiters](https://www.reddit.com/r/cscareerquestions/comments/e7rovp/how_to_reach_out_to_recruiters/)
+* [Top Cities For Software Engineers](https://www.reddit.com/r/cscareerquestions/comments/7nbxpy/top_cities_for_software_engineers/ds0ur3m/)
 
 ## Contribution
 
