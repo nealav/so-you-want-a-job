@@ -10,7 +10,7 @@ Your career and job are abstract concepts that you can build a relationship with
 
 You have hidden assumptions about existence and how the world around you operates. I will put your thoughts (what used to be mine) in __bold font__.
 
-1. __I want a good job.__ No. There are no good jobs, only jobs that don't hold you back from living a good life. What you want is a good *life*. Using your job to define your life will leave you unsatisfied. Nobody can steal away the goodness of your life. If you want it then you can get it by giving it to yourself.
+1. __I want a good job.__ No. There are no good jobs, only jobs that don't hold you back from living a good life. What you want is a good *life*. Using your job to define your life will leave you unsatisfied. Nobody can steal away the goodness of your life. If you want it then you can get it by giving it to yourself. Sacrificing or changing your current life so you can get the job you want is not particularly good planning. Live the life you want to live, and if your getting that job doesn't fit into it (in a capacity you feel comfortable with, of course), then change your intentions and expectations. Work towards your goals while giving yourself the present moment.
 
 2. __People and companies know what they are doing__. People and companies are inefficient and disorganized. All of them. I once was interviewing for an internship at a big tech company and my recruiter got fired/left without handing me off to another. I followed up a few times but I was unable to contact them. I went to their LinkedIn after following up a few times over the course of a few weeks only to find out they were working at a completely different company, and by this time the positions had filled up.
 
@@ -93,6 +93,14 @@ Know what you're worth.
 * [Ten Rules for Negotiating a Job Offer, Haseeb Qureshi](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [Salary Negotiation: Make More Money, Be More Valued, Patrick McKenzie](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [How Not To Bomb Your Offer Negotiation](https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/)
+
+## Epilogue
+
+1. Write down all your advices and learnings (and send them to me!). Go make a GitHub repo right now where after every interview you write down at least one thing you learned (technically, behaviorally etc.). It will help your career and be a great reference guide to yourself and others as you go through your journey. When you are 40 or 50 it will be an absolute blast to see how your thinking evolved and changed.
+
+2. Keep track of your journey. Go make another repo of general career (or otherwise!) things you've done. You read a book and liked it? Throw it down in a list somewhere. You saw a repo you liked? Throw it down! We all keep giant piles of bookmarks. I think it is more fun to keep them in repos. I enjoy cataloguing. It motivates me to keep adding more things I liked and have done. Plus if anyone asks you for career advice or life advice you can point them to your repo of things you liked/helped you, and the community will be so much better off.
+
+3. Always be applying. Make sure you can do at least 1 phone screen per week. Applying enough to get about 1 phone screen per week should be considered part of your job (about 10 jobs per week should be target). Even if you fail the phone screen that's fine. You should want to be able to pass phone screens though. Keep track of different interviewing techniques and difficulties of interviewing at various companies.
 
 ## Miscelaneous Guides
 
