@@ -17,7 +17,7 @@
 * (Splunk OS) More complex behavior stuff. Enjoyable, really.
 * (Splunk OS) More complicated coding questions. Still not so bad. Got them all. Interviewers need to clarify questions better. Having the candidate take on the entire burden of assumption, clarification and solution is bit a much. Possible, but much.
 * (Splunk OS) Really great conversation. May have paused for too long on a question. Some questions you need to pause to reword your strong stories to fit the agenda, innit?
-* (Splunk Overall) Rejected. Really? They even emailed me back the same night asking what would be the best time to chat so I thought they were excited abut my feedback. And then I get an email a week later saying the position is filled. Whaaat. Oh, well.
+* (Splunk Overall) Rejected. Really? They even emailed me back the same night asking what would be the best time to chat so I thought they were excited abut my feedback. And then I get an email a week later saying the position is filled. Whaaat. Oh well.
 
 # Old Tidbits
 
