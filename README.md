@@ -56,6 +56,17 @@ This is a marathon, not a sprint. Pacing is everything.
 * [Silicon Valley Companies](https://docs.google.com/spreadsheets/d/1wEOBuKXFc8Lbim6uz9FfVFuIqDa38JPgp94fe_gcAyw/edit#gid=245098019)
 * [Steve Jobs](https://docs.google.com/spreadsheets/d/15eqdQCWwXOQZvl6TNehn12BuMTVNpAG7Q_ib3q-BS1Y/edit#gid=0)
 * [Tech Companies NYC](https://en.wikipedia.org/wiki/List_of_tech_companies_in_the_New_York_metropolitan_area)
+* [Intern Supply](https://intern.supply/)
+* [Breakout List](https://breakoutlist.com/)
+* [YC Top Companies List](https://www.ycombinator.com/topcompanies/)
+* [Levels.fyi](https://www.levels.fyi/)
+* [BuiltIn](https://builtin.com/jobs), [BuiltInNYC](https://www.builtinnyc.com/), [BuiltInSF](https://www.builtinsf.com/), [BuiltInSeattle](https://www.builtinseattle.com/) etc.
+* HN 'Who Is Hiring?' Threads
+* [whoishiring.io](https://whoishiring.io/)
+* [Hiring Tech Companies](https://docs.google.com/spreadsheets/d/1TrPJt4g2q7NIP0FDMqx-iewHXVQZHWEzXPvt2DJqp2g/edit#gid=0)
+* [Stack Overflow Jobs](https://stackoverflow.com/jobs)
+* [Glassdoor](https://www.glassdoor.com/)
+* [LinkedIn](https://www.linkedin.com/)
 
 1. Apply to 10 jobs per day at the minimum. Don't set arbitrary minimums like 100 jobs per day. You will overwhelm yourself. Do NOT, under any circumstances, burn yourself out over a job search. Just assume that the potential hit-rate of your applications will fall somewhere between 5% - 20%. I like to assume that the hit-rate is 10%. So applying to 10 jobs per day should net you at least 1 recruiter call per batch. You don't even have to actually apply to 10 jobs. Think of it like lead generation. Adding technical recruiters on LinkedIn (get them 500+ connections, bruh) and following hiring managers and developers on Twitter also happens to be meaningful lead generation, something that could potentially lead you to a job opportunity.
 
