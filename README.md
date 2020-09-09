@@ -22,10 +22,11 @@ You have hidden assumptions about existence and how the world around you operate
 
 6. __I make a similar amount to my colleagues.__ Possibly. You'd be surprised how much more or less you make than them. Companies are not fair. I am neutral on salary sharing with colleagues. 
 
+7. It's OK. Everything is.
+
 ## Resume
 
 Write a good resume. Read up.
-
 * [How To Write A Resume* Worth Reading](https://acorwin.com/2015/03/30/how-to-write-a-resume-worth-reading/)
 * [MIT Career Handbook](https://capd.mit.edu/sites/default/files/about/files/career-handbook.pdf)
 * [Getting Your Résumé Read](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
@@ -44,10 +45,14 @@ Resume examples.
   [5](https://www.reddit.com/r/cscareerquestions/comments/40lnx4/show_us_the_resume_that_got_you_your_job/),
   [6](https://www.reddit.com/r/cscareerquestions/comments/388q5m/people_who_got_interviewed_by_big_companies_what/),
   [7](https://www.reddit.com/r/cscareerquestions/comments/7xcez9/official_experienced_currently_employed_developer/)
+  
+[Overleaf, Online LaTeX Editor](https://www.overleaf.com/).
 
 ## Applying
 
 This is a marathon, not a sprint. Pacing is everything.
+
+__Job Lists & Sites.__
 
 * [j-delany / easy-application](https://github.com/j-delaney/easy-application)
 * [Apply Everywhere](https://docs.google.com/document/d/1n7vxbL0Wjt58Q6M73b3leNjIYSkUeej1E8afQF86ZeQ/edit#)
@@ -55,18 +60,52 @@ This is a marathon, not a sprint. Pacing is everything.
 * [900+ Sartups Hiring Remote 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 * [Silicon Valley Companies](https://docs.google.com/spreadsheets/d/1wEOBuKXFc8Lbim6uz9FfVFuIqDa38JPgp94fe_gcAyw/edit#gid=245098019)
 * [Steve Jobs](https://docs.google.com/spreadsheets/d/15eqdQCWwXOQZvl6TNehn12BuMTVNpAG7Q_ib3q-BS1Y/edit#gid=0)
+* [The Really Big Hugely Ginormous Tech Company List](https://docs.google.com/spreadsheets/d/1QOYYS_1fN7eO8rTBHYLv1tQ1dMPeqgIKbIE6CP-yFzg/edit#gid=1368926779)
 * [Tech Companies NYC](https://en.wikipedia.org/wiki/List_of_tech_companies_in_the_New_York_metropolitan_area)
+* [Made In NYC](https://www.nytech.org/made?list=true)
 * [Intern Supply](https://intern.supply/)
 * [Breakout List](https://breakoutlist.com/)
 * [YC Top Companies List](https://www.ycombinator.com/topcompanies/)
+* [YC HQs](https://merchantmachine.co.uk/yc-101/)
+* [YC Company Directory](https://www.ycombinator.com/companies/)
+* [YC Jobs](https://www.ycombinator.com/jobs/)
 * [Levels.fyi](https://www.levels.fyi/)
 * [BuiltIn](https://builtin.com/jobs), [BuiltInNYC](https://www.builtinnyc.com/), [BuiltInSF](https://www.builtinsf.com/), [BuiltInSeattle](https://www.builtinseattle.com/) etc.
 * HN 'Who Is Hiring?' Threads
+* [WSO Company DB](https://www.wallstreetoasis.com/wso-company-database)
 * [whoishiring.io](https://whoishiring.io/)
 * [Hiring Tech Companies](https://docs.google.com/spreadsheets/d/1TrPJt4g2q7NIP0FDMqx-iewHXVQZHWEzXPvt2DJqp2g/edit#gid=0)
 * [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 * [Glassdoor](https://www.glassdoor.com/)
 * [LinkedIn](https://www.linkedin.com/)
+* [Crunchbase](https://www.crunchbase.com/)
+* [Indeed](https://www.indeed.com/)
+* [GitHub Jobs](https://jobs.github.com/)
+* [Google Careers](https://careers.google.com/jobs)
+
+__Example Job Searches.__
+
+* [1](https://www.indeed.com/jobs?q=new%20grad%20software%20engineer&l=nyc&sort=date),
+[2](https://www.indeed.com/jobs?q=entry+level+software+engineer&l=nyc&sort=date),
+[3](https://www.indeed.com/jobs?q=junior+software+engineer&l=NYC%2C+NY&sort=date),
+[4](https://www.indeed.com/jobs?q=software+engineer&l=NYC%2C+NY&sort=date),
+[5](https://www.glassdoor.com/Job/new-york-entry-level-software-engineer-jobs-SRCH_IL.0,8_IC1132348_KO9,38.htm),
+[6](https://www.glassdoor.com/Job/new-york-new-grad-software-engineer-jobs-SRCH_IL.0,8_IC1132348_KO9,35.htm),
+[7](https://www.google.com/search?q=(site%3Agreenhouse.io+OR+site%3Ajobs.lever.co+OR+site%3Aapplytojob.com+OR+site%3Aworkable.com+OR+site%3Ajobvite.com)+junior+software+engineer&oq=(site%3Agreenhouse.io+OR+site%3Ajobs.lever.co+OR+site%3Aapplytojob.com+OR+site%3Aworkable.com+OR+site%3Ajobvite.com)+junior+software+engineer&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8),
+[8](https://www.google.com/search?q=site%3A.applytojob.com%2Fapply%2F%2F+OR+site%3Ajobs.lever.co%2F+OR+site%3A.recruitee.com+OR+site%3Ajobs.jobvite.com%2F+OR+site%3Aboards.greenhouse.io%2F+OR+site%3A.workable.com%2Fjobs%2F*+(software+OR+engineer+OR+developer)+AND+(%7BAREA1%7D+OR+%7BAREA2%7D+OR+%7BAREA3%7D)&oq=site%3A.applytojob.com%2Fapply%2F%2F%C2%A0OR%C2%A0site%3Ajobs.lever.co%2F%C2%A0OR%C2%A0site%3A.recruitee.com%C2%A0OR%C2%A0site%3Ajobs.jobvite.com%2F%C2%A0OR%C2%A0site%3Aboards.greenhouse.io%2F%C2%A0OR%C2%A0site%3A.workable.com%2Fjobs%2F*%C2%A0(software%C2%A0OR%C2%A0engineer%C2%A0OR%C2%A0developer)%C2%A0AND%C2%A0(%7BAREA1%7D%C2%A0OR%C2%A0%7BAREA2%7D%C2%A0OR%C2%A0%7BAREA3%7D)&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8),
+[9](https://www.google.com/search?q=software+jobs+in+nyc&oq=software+jobs+in+nyc&aqs=chrome..69i57j69i60l3.6535j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjWupXRv_LcAhWKKHwKHessCoQQiYsCKAB6BAgGEAI#fpstate=tldetail&htidocid=w6ohZj4cujv9W-LUAAAAAA%3D%3D&htivrt=jobs)
+
+__COVID Related.___
+* [Hiring Freezes](https://candor.co/hiring-freezes)
+* [Layoffs List](https://list.layoffs.fyi/)
+
+__Referrals.__
+* [Repher.me](https://repher.me/)
+* [Rooftop Slushie](https://www.rooftopslushie.com/)
+
+__Other.__
+* [New Grad 2021](https://github.com/Pitt-CSC/NewGrad-2021)
+* [Which Job Sites Do You Use?](https://www.teamblind.com/post/which-job-sites-do-you-use-OCnAbbHH)
 
 1. Apply to 10 jobs per day at the minimum. Don't set arbitrary minimums like 100 jobs per day. You will overwhelm yourself. Do NOT, under any circumstances, burn yourself out over a job search. Just assume that the potential hit-rate of your applications will fall somewhere between 5% - 20%. I like to assume that the hit-rate is 10%. So applying to 10 jobs per day should net you at least 1 recruiter call per batch. You don't even have to actually apply to 10 jobs. Think of it like lead generation. Adding technical recruiters on LinkedIn (get them 500+ connections, bruh) and following hiring managers and developers on Twitter also happens to be meaningful lead generation, something that could potentially lead you to a job opportunity.
 
@@ -114,6 +153,8 @@ Know what you're worth.
 * [Ten Rules for Negotiating a Job Offer, Haseeb Qureshi](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [Salary Negotiation: Make More Money, Be More Valued, Patrick McKenzie](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [How Not To Bomb Your Offer Negotiation](https://www.freecodecamp.org/news/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea/)
+* [Paysa Salaries](https://www.paysa.com/salaries#!location=New+York%2C+NY&compType=total)
+* [H1B Salary DB](https://h1bdata.info/)
 
 ## Epilogue
 
@@ -130,6 +171,9 @@ I found these useful in some capacity.
 * [Lessons From A Silicon Valley Job Search, Robert Heaton](https://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/)
 * [How To Reach Out To Recruiters](https://www.reddit.com/r/cscareerquestions/comments/e7rovp/how_to_reach_out_to_recruiters/)
 * [Top Cities For Software Engineers](https://www.reddit.com/r/cscareerquestions/comments/7nbxpy/top_cities_for_software_engineers/ds0ur3m/)
+* [So You Want An Internship](https://github.com/codebytere/so-you-want-an-internship)
+* [What Should You Do With Your Life? Directions and Advice, Alexey Guzey](https://guzey.com/personal/what-should-you-do-with-your-life/)
+* [How Do you Get Enough Experience to Apply for Programming Jobs?](https://www.youtube.com/watch?v=6G3kQyqMFpQ&feature=youtu.be)
 
 ## Contribution
 
