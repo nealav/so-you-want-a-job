@@ -1,5 +1,7 @@
 # Advices 
 
+* (Airtable RS) Ugh so jittery. I hate trying to pitch myself technically to recruiters who just...don't understand tech stuff.
+* (Anduril PS) Asked me a LC Dynamic Programming and then rejected me after I answered it? Whaaaat.
 * (Google PS x2) Absolutely slayed. Mic drop. Sidenote: If a recruiter asks for your compensation range before the onsite, what?
 * (Google OS) Organize your thoughts better. Take a pause and list out questions you would ask yourself in a systems design interview.
 * (Google OS) You destroyed the coding questions. Give yourself more credit and you will be less nervous and anxious overall.
