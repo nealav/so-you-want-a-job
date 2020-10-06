@@ -52,7 +52,7 @@ Resume examples.
 
 This is a marathon, not a sprint. Pacing is everything.
 
-__Job Lists & Sites.__
+__Job Lists.__
 * [j-delany / easy-application](https://github.com/j-delaney/easy-application)
 * [Apply Everywhere](https://docs.google.com/document/d/1n7vxbL0Wjt58Q6M73b3leNjIYSkUeej1E8afQF86ZeQ/edit#)
 * [US + Canada Software Companies List](https://docs.google.com/spreadsheets/d/1z3_OfZdPXiOOgHi7uY5nvLuQX_qbpaxmYNXHHiuuV0I/edit#gid=0)
@@ -72,25 +72,26 @@ __Job Lists & Sites.__
 * [BuiltIn](https://builtin.com/jobs), [BuiltInSF](https://www.builtinsf.com/), [BuiltInSeattle](https://www.builtinseattle.com/) etc.
 * HN 'Who Is Hiring?' Threads
 * [WSO Company DB](https://www.wallstreetoasis.com/wso-company-database)
-* [whoishiring.io](https://whoishiring.io/)
 * [Hiring Tech Companies](https://docs.google.com/spreadsheets/d/1TrPJt4g2q7NIP0FDMqx-iewHXVQZHWEzXPvt2DJqp2g/edit#gid=0)
+* [Hiring Freezes](https://candor.co/hiring-freezes)
+* [Open Source Jobs](https://github.com/t9tio/open-source-jobs)
+* [New Grad 2021](https://github.com/Pitt-CSC/NewGrad-2021)
+* [Hiring 2020](https://github.com/gcreddy42/hiring2020)
+* https://github.com/sourceful/jobs
+* https://github.com/tramcar/awesome-job-boards
+
+__Sites__
+* [whoishiring.io](https://whoishiring.io/)
+* [Ladders](https://www.theladders.com/)
 * [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 * [Glassdoor](https://www.glassdoor.com/)
 * [LinkedIn](https://www.linkedin.com/)
 * [Crunchbase](https://www.crunchbase.com/)
-* [Indeed](https://www.indeed.com/)
 * [GitHub Jobs](https://jobs.github.com/)
 * [Google Careers](https://careers.google.com/jobs)
-* https://hired.com/
-* https://www.vettery.com/
-* https://underdog.io/
-* https://www.dice.com/
-* https://www.monster.com/
-* https://snap.hr/
-* https://triplebyte.com/
-* https://angel.co/
-* https://alist.co/
-* https://www.indeed.com/prime
+* [Angel](https://angel.co/)
+* [ZipRecruiter](https://www.ziprecruiter.com/)
+* [TripleByte](https://triplebyte.com/)
 
 __NYC Specific.__
 * [Advertising Agencies](https://www.thelistinc.com/blog/ultimate-list-new-york-advertising-agencies/)
@@ -111,18 +112,17 @@ __Example Job Searches.__
 [8](https://www.google.com/search?q=site%3A.applytojob.com%2Fapply%2F%2F+OR+site%3Ajobs.lever.co%2F+OR+site%3A.recruitee.com+OR+site%3Ajobs.jobvite.com%2F+OR+site%3Aboards.greenhouse.io%2F+OR+site%3A.workable.com%2Fjobs%2F*+(software+OR+engineer+OR+developer)+AND+(%7BAREA1%7D+OR+%7BAREA2%7D+OR+%7BAREA3%7D)&oq=site%3A.applytojob.com%2Fapply%2F%2F%C2%A0OR%C2%A0site%3Ajobs.lever.co%2F%C2%A0OR%C2%A0site%3A.recruitee.com%C2%A0OR%C2%A0site%3Ajobs.jobvite.com%2F%C2%A0OR%C2%A0site%3Aboards.greenhouse.io%2F%C2%A0OR%C2%A0site%3A.workable.com%2Fjobs%2F*%C2%A0(software%C2%A0OR%C2%A0engineer%C2%A0OR%C2%A0developer)%C2%A0AND%C2%A0(%7BAREA1%7D%C2%A0OR%C2%A0%7BAREA2%7D%C2%A0OR%C2%A0%7BAREA3%7D)&aqs=chrome..69i57j69i58&sourceid=chrome&ie=UTF-8),
 [9](https://www.google.com/search?q=software+jobs+in+nyc&oq=software+jobs+in+nyc&aqs=chrome..69i57j69i60l3.6535j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjWupXRv_LcAhWKKHwKHessCoQQiYsCKAB6BAgGEAI#fpstate=tldetail&htidocid=w6ohZj4cujv9W-LUAAAAAA%3D%3D&htivrt=jobs)
 
-__COVID Related.__
-* [Hiring Freezes](https://candor.co/hiring-freezes)
-* [Layoffs List](https://list.layoffs.fyi/)
-
 __Referrals.__
 * [Repher.me](https://repher.me/)
 * [Rooftop Slushie](https://www.rooftopslushie.com/)
 
 __Other.__
-* [New Grad 2021](https://github.com/Pitt-CSC/NewGrad-2021)
 * [Which Job Sites Do You Use?](https://www.teamblind.com/post/which-job-sites-do-you-use-OCnAbbHH)
 * [List Of Job Boards](https://www.reddit.com/r/jobs/comments/45m5m0/a_list_of_search_engines_and_job_boards_that_will/)
+* [Layoffs List](https://list.layoffs.fyi/)
+
+__Meh__
+
 
 1. Apply to 10 jobs per day at the minimum. Don't set arbitrary minimums like 100 jobs per day. You will overwhelm yourself. Do NOT, under any circumstances, burn yourself out over a job search. Just assume that the potential hit-rate of your applications will fall somewhere between 5% - 20%. I like to assume that the hit-rate is 10%. So applying to 10 jobs per day should net you at least 1 recruiter call per batch. You don't even have to actually apply to 10 jobs. Think of it like lead generation. Adding technical recruiters on LinkedIn (get them 500+ connections, bruh) and following hiring managers and developers on Twitter also happens to be meaningful lead generation, something that could potentially lead you to a job opportunity.
 
