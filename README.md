@@ -76,7 +76,6 @@ __Job Lists.__
 * [Hiring Freezes](https://candor.co/hiring-freezes)
 * [Open Source Jobs](https://github.com/t9tio/open-source-jobs)
 * [New Grad 2021](https://github.com/Pitt-CSC/NewGrad-2021)
-* [Hiring 2020](https://github.com/gcreddy42/hiring2020)
 * https://github.com/sourceful/jobs
 * https://github.com/tramcar/awesome-job-boards
 
