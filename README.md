@@ -53,7 +53,7 @@ Resume examples.
 This is a marathon, not a sprint. Pacing is everything.
 
 __Job Lists.__
-* [j-delany / easy-application](https://github.com/j-delaney/easy-application)
+* [j-delany / easy-application](https://github.com/j-delaney/easy-application) * 
 * [Apply Everywhere](https://docs.google.com/document/d/1n7vxbL0Wjt58Q6M73b3leNjIYSkUeej1E8afQF86ZeQ/edit#) *
 * [US + Canada Software Companies List](https://docs.google.com/spreadsheets/d/1z3_OfZdPXiOOgHi7uY5nvLuQX_qbpaxmYNXHHiuuV0I/edit#gid=0)
 * [900+ Sartups Hiring Remote 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
