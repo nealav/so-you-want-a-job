@@ -54,7 +54,7 @@ This is a marathon, not a sprint. Pacing is everything.
 
 __Job Lists.__
 * [j-delany / easy-application](https://github.com/j-delaney/easy-application)
-* [Apply Everywhere](https://docs.google.com/document/d/1n7vxbL0Wjt58Q6M73b3leNjIYSkUeej1E8afQF86ZeQ/edit#)
+* [Apply Everywhere](https://docs.google.com/document/d/1n7vxbL0Wjt58Q6M73b3leNjIYSkUeej1E8afQF86ZeQ/edit#) *
 * [US + Canada Software Companies List](https://docs.google.com/spreadsheets/d/1z3_OfZdPXiOOgHi7uY5nvLuQX_qbpaxmYNXHHiuuV0I/edit#gid=0)
 * [900+ Sartups Hiring Remote 2020](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 * [Silicon Valley Companies](https://docs.google.com/spreadsheets/d/1wEOBuKXFc8Lbim6uz9FfVFuIqDa38JPgp94fe_gcAyw/edit#gid=245098019)
@@ -69,13 +69,13 @@ __Job Lists.__
 * [YC Company Directory](https://www.ycombinator.com/companies/)
 * [YC Jobs](https://www.ycombinator.com/jobs/)
 * [Levels.fyi](https://www.levels.fyi/)
-* [BuiltIn](https://builtin.com/jobs), [BuiltInSF](https://www.builtinsf.com/), [BuiltInSeattle](https://www.builtinseattle.com/) etc.
+* [BuiltIn](https://builtin.com/jobs), [BuiltInSF](https://www.builtinsf.com/), [BuiltInSeattle](https://www.builtinseattle.com/), [BuiltInNYC](https://www.builtinnyc.com/)
 * HN 'Who Is Hiring?' Threads
 * [WSO Company DB](https://www.wallstreetoasis.com/wso-company-database)
 * [Hiring Tech Companies](https://docs.google.com/spreadsheets/d/1TrPJt4g2q7NIP0FDMqx-iewHXVQZHWEzXPvt2DJqp2g/edit#gid=0)
 * [Hiring Freezes](https://candor.co/hiring-freezes)
 * [Open Source Jobs](https://github.com/t9tio/open-source-jobs)
-* [New Grad 2021](https://github.com/Pitt-CSC/NewGrad-2021)
+* [New Grad 2021](https://github.com/Pitt-CSC/NewGrad-2021) * 
 * https://github.com/sourceful/jobs
 * https://github.com/tramcar/awesome-job-boards
 
@@ -98,7 +98,6 @@ __NYC Specific.__
 * [Top Fortune 500 NYC](https://littlesis.org/lists/852-top-fortune-500-companies-in-nyc/members)
 * [Tech Companies NYC](https://en.wikipedia.org/wiki/List_of_tech_companies_in_the_New_York_metropolitan_area)
 * [Made In NYC](https://www.nytech.org/made?list=true)
-* [BuiltInNYC](https://www.builtinnyc.com/)
 
 __Example Job Searches.__
 * [1](https://www.indeed.com/jobs?q=new%20grad%20software%20engineer&l=nyc&sort=date),
@@ -112,11 +111,11 @@ __Example Job Searches.__
 [9](https://www.google.com/search?q=software+jobs+in+nyc&oq=software+jobs+in+nyc&aqs=chrome..69i57j69i60l3.6535j0j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjWupXRv_LcAhWKKHwKHessCoQQiYsCKAB6BAgGEAI#fpstate=tldetail&htidocid=w6ohZj4cujv9W-LUAAAAAA%3D%3D&htivrt=jobs)
 
 __Referrals.__
-* [Repher.me](https://repher.me/)
+* [Repher.me](https://repher.me/) * 
 * [Rooftop Slushie](https://www.rooftopslushie.com/)
 
 __Other.__
-* [Which Job Sites Do You Use?](https://www.teamblind.com/post/which-job-sites-do-you-use-OCnAbbHH)
+* [Which Job Sites Do You Use?](https://www.teamblind.com/post/which-job-sites-do-you-use-OCnAbbHH) * 
 * [List Of Job Boards](https://www.reddit.com/r/jobs/comments/45m5m0/a_list_of_search_engines_and_job_boards_that_will/)
 * [Layoffs List](https://list.layoffs.fyi/)
 
